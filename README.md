@@ -1,4 +1,4 @@
-### Esta es mi página de github para proyectos ¡Bienvenidos! 👋
+### Esta es mi página para programas de uso personal o colectivo, todos son bienvenidos 👋
 
 <!--
 **pabloachavezlo/pabloachavezlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
